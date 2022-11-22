@@ -1,0 +1,49 @@
+
+  body {
+    background-color: rgb(83, 87, 85);
+  }
+  img    {
+    border-radius: 50%;
+}
+
+  .nome, .descricao {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+  }
+
+  em {
+    color: rgb(177, 184, 177);
+  }
+
+  .paciencia {
+    font-size: 22px;
+  }
+
+  .empatia {
+    font-size: 21px;
+  }
+
+  .comprometimento {
+    font-size: 20px;
+  }
+
+  .amizade {
+    font-size: 19px;
+  }
+
+  .lifelong {
+    font-size: 18px;
+    
+  }
+  .cozinhar {
+    font-size: 17px;
+        
+  }
+  .caminhar {
+    font-size: 16px;
+    
+  }
+  .dançar {
+    font-size: 15px;
+    
+  }
